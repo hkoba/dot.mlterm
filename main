@@ -1,0 +1,2 @@
+logsize = 4096
+receive_string_via_ucs = true
