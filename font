@@ -9,7 +9,9 @@
 #JISX0208_1983_BOLD = 10,k10B;
 #TCVN5712 = 14,-*-.vntime-*--14-*-iso8859-1;
 DEFAULT = 12,-misc-sazanami gothic-medium-r-normal-*-12-*-*-*-c-*-
-ISO10646_UCS4_1 = Gothic 14
+ISO10646_UCS4_1 = -misc-fixed-medium-r-normal-ja-13-120-75-75-c-120-iso10646-1
+#ISO10646_UCS4_1 = -mona-gothic-medium-r-normal-*-14-130-75-75-P-140-iso10646-1
+#ISO10646_UCS4_1 = -mona-gothic-medium-r-normal-*-16-150-75-75-P-160-iso10646-1
 ISO8859_1 = -shinonome-gothic-medium-r-normal--%d-*-iso8859-1
 JISX0201_KATA      = -mona-gothic-medium-r-normal--%d-*-jisx0201.1976-0
 JISX0201_KATA_BOLD = -mona-gothic-medium-r-normal--%d-*-jisx0201.1976-0
