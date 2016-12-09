@@ -1,7 +1,7 @@
 fontsize = 14
-use_anti_alias = true
+use_anti_alias = false
 logsize = 2048
-type_engine = xft
+type_engine = xcore
 use_transbg = false
 wall_picture = 
 bg_color = lightgray
